@@ -1,5 +1,4 @@
 vendor
-.env
 .robots.txt
 sitemap.xml
 spam-url.txt
@@ -11,3 +10,4 @@ storage/framework/cache
 storage/framework/sessions
 storage/framework/views
 storage/logs
+config.bat
