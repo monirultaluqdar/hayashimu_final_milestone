@@ -44,7 +44,7 @@ class CategoryController extends BaseController
             'image'     => 'mimes:jpg,jpeg,png,webp|max:5000',
             'hover_image'     => 'mimes:jpg,jpeg,png,webp|max:5000',
             'meta_title' => 'nullable|max:191',
-            'meta_description' => 'nullable|max:500'
+            'meta_description' => 'nullable'
         ]);
 
         // Debug: Check specifically for textarea fields
